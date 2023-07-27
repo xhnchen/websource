@@ -44,5 +44,7 @@ jobs:
         run: |
           hexo g
       - name: Deploy Hexo
+        env:
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         run: |
           sh ./script/deploy.sh
