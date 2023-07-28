@@ -8,7 +8,7 @@ img: /img/gg.png
 coverImg: /img/gg.png
 summary: 社团招新公告
 abbrlink: 7996
-date: 2023-08-1 22:11:00
+date: 2023-07-28 22:11:00
 ---
 
 # 2023/7/28
