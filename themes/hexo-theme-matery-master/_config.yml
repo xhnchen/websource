@@ -30,7 +30,7 @@ menu:
     icon: fas fa-list
     children:
       - name: NAS (校园网)
-        url: http://nas.guet-ladybug.cn/
+        url: http://125.217.53.75/
         icon: 
       - name: 菜鸟教程
         url: https://www.runoob.com/
