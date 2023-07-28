@@ -216,7 +216,7 @@ clicklove:
 # profile in about page, including avatars, career, and personal introductions.
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
-  avatar: /img/nocolor.png
+  avatar: /img/color.png
   career: 七星瓢虫工作坊
   introduction: 未来的信安精英在这里产生!我们真诚期待你的加入!
 
