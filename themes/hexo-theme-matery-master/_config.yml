@@ -32,6 +32,9 @@ menu:
       - name: NAS (校园网)
         url: http://125.217.53.75/
         icon: 
+      - name: 桂电信协
+        url: https://guetsec.cn/
+        icon: 
       - name: 菜鸟教程
         url: https://www.runoob.com/
         icon: 
