@@ -22,12 +22,12 @@ date: 2023-07-23 14:22:58
 
 ## 校园网临时下载地址：
 
-- [VMware16(附激活码)](http://nas.guet-ladybug.cn/download/VMware.zip)
-- [Burpsuite2.011(附激活工具)](http://nas.guet-ladybug.cn/download/bp1.zip)
-- [Burpsuite2022.3.9(附激活工具)](http://nas.guet-ladybug.cn/download/bp2.zip)
-- [Burpsuite9.1(自带java环境)](http://nas.guet-ladybug.cn/download/bp3.7z)
-- [kali-linux-2022.3-vmware-amd64](http://nas.guet-ladybug.cn/download/kali.7z)
-- [IDAPRO68.zip](http://nas.guet-ladybug.cn/download/IDAPRO68.zip)
+- [VMware16(附激活码)](http://125.217.53.75/download/VMware.zip)
+- [Burpsuite2.011(附激活工具)](http://125.217.53.75/download/bp1.zip)
+- [Burpsuite2022.3.9(附激活工具)](http://125.217.53.75/download/bp2.zip)
+- [Burpsuite9.1(自带java环境)](http://125.217.53.75/download/bp3.7z)
+- [kali-linux-2022.3-vmware-amd64](http://125.217.53.75/download/kali.7z)
+- [IDAPRO68.zip](http://125.217.53.75/download/IDAPRO68.zip)
 
 > 注：如遇“无法安全下载”，选择保留即可。
 >
